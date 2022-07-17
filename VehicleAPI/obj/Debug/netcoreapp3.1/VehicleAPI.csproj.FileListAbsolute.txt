@@ -235,3 +235,4 @@ E:\GenCUdemy\MFPE Pod-1 Project\Microservices\VehicleDriverAccountBook\VehicleAP
 E:\GenCUdemy\MFPE Pod-1 Project\Microservices\VehicleDriverAccountBook\VehicleAPI\obj\Debug\netcoreapp3.1\VehicleAPI.dll
 E:\GenCUdemy\MFPE Pod-1 Project\Microservices\VehicleDriverAccountBook\VehicleAPI\obj\Debug\netcoreapp3.1\VehicleAPI.pdb
 E:\GenCUdemy\MFPE Pod-1 Project\Microservices\VehicleDriverAccountBook\VehicleAPI\obj\Debug\netcoreapp3.1\VehicleAPI.genruntimeconfig.cache
+E:\GenCUdemy\MFPE Pod-1 Project\Microservices\VehicleDriverAccountBook\VehicleAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll

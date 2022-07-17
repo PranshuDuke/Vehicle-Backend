@@ -88,7 +88,8 @@ namespace VehicleAPI
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => { c.SwaggerEndpoint("/swagger/v1/swagger.json", "VehicleAPI v1"); });
+                app.UseSwaggerUI(c => {c.SwaggerEndpoint("/swagger/v1/swagger.json", "VehicleAPI v1"); });
+
             }
 
             app.UseHttpsRedirection();

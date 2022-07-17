@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System;
 using VehicleAPI.Interfaces;
 using VehicleAPI.Models;
 
@@ -55,9 +56,23 @@ namespace VehicleAPI.Controllers
         [HttpPost]
         public IActionResult AddVehicle(Vehicle vehicle)
         {
-            ResponseStatus response = new ResponseStatus();
-            response.IsSuccess = _service.AddVehicle(vehicle);
-            return Ok(response);
+            //_log.info("AddVehicle : Process Initiated");
+            //if (!TryHandlerequestAuth(ControllerMethods.C))
+            //{
+            //    _log.Info("Add Vehicle : Process terminated with Message : Unauthorized Access.");
+            //}
+            //try
+            //{
+                ResponseStatus response = new ResponseStatus();
+                response.IsSuccess = _service.AddVehicle(vehicle);
+                return Ok(response);
+            //}
+            //catch(Exception exception)
+            //{
+            //    //_log.Info("Add vehicle : Process Terminated with Exception -", exception);
+            //    return Conflict();
+            //}
+           
         }
 
         [HttpDelete]

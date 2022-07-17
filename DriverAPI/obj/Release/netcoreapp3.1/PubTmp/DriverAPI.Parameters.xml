@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="DriverAPI20220715202256" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\GenCUdemy\\MFPE\ Pod-1\ Project\\Microservices\\VehicleDriverAccountBook\\DriverAPI\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

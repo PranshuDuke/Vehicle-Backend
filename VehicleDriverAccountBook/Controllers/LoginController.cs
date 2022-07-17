@@ -31,7 +31,6 @@ namespace AuthorizationAPI.Controllers
                 response.Token = _generateToken.GenerateJsonWebToken();
                 response.Role = result.Role;
             }
-
             return Ok(response);
         }
 
@@ -46,8 +45,6 @@ namespace AuthorizationAPI.Controllers
             {
                 response.IsSuccess = true;
             }
-                
-
             return Ok(response);
         }
     }

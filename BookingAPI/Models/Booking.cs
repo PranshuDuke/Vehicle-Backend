@@ -16,18 +16,18 @@ namespace BookingAPI.Models
         public string FromLocation { get; set; }
         public string ToLocation { get; set; }
         public double Distance { get; set; }
-        public TripType Type { get; set; }
+        public string Type { get; set; }
         public double TripFare { get; set; }
         public double FuelExpense { get; set; }
         public double DriverShare { get; set; }
         public string Remarks { get; set; }
     }
 
-    public enum TripType
-    {
-        Pickup = 1,
-        Drop = 2,
-        Round = 3,
-        Tour = 4
-    }
+    //public enum TripType
+    //{
+    //    Pickup = 1,
+    //    Drop = 2,
+    //    Round = 3,
+    //    Tour = 4
+    //}
 }

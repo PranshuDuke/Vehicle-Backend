@@ -56,8 +56,8 @@ namespace BookingAPI.Migrations
                     b.Property<double>("TripFare")
                         .HasColumnType("float");
 
-                    b.Property<int>("Type")
-                        .HasColumnType("int");
+                    b.Property<string>("Type")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Vehicle")
                         .HasColumnType("nvarchar(max)");
