@@ -11,7 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DriverAPI", "DriverAPI\Driv
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookingAPI", "BookingAPI\BookingAPI.csproj", "{1C2BDF43-1345-4BF9-9737-27B3D8D65F0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizationAPI-Test", "AuthorizationAPI-Test\AuthorizationAPI-Test.csproj", "{D69D7CB2-40B2-4EE6-9663-8973F83C0516}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthorizationAPI-Test", "AuthorizationAPI-Test\AuthorizationAPI-Test.csproj", "{D69D7CB2-40B2-4EE6-9663-8973F83C0516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingTest", "BookingTest\BookingTest.csproj", "{F0E4498B-73D5-48F5-B8AA-92D644788033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverTest", "DriverTest\DriverTest.csproj", "{C9256EE4-D258-4303-89A6-9FC521A8F42D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleTest", "VehicleTest\VehicleTest.csproj", "{EF48DD17-E66B-409F-A286-D068E47AFAFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{D69D7CB2-40B2-4EE6-9663-8973F83C0516}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D69D7CB2-40B2-4EE6-9663-8973F83C0516}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D69D7CB2-40B2-4EE6-9663-8973F83C0516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0E4498B-73D5-48F5-B8AA-92D644788033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E4498B-73D5-48F5-B8AA-92D644788033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E4498B-73D5-48F5-B8AA-92D644788033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E4498B-73D5-48F5-B8AA-92D644788033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9256EE4-D258-4303-89A6-9FC521A8F42D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9256EE4-D258-4303-89A6-9FC521A8F42D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9256EE4-D258-4303-89A6-9FC521A8F42D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9256EE4-D258-4303-89A6-9FC521A8F42D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF48DD17-E66B-409F-A286-D068E47AFAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF48DD17-E66B-409F-A286-D068E47AFAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF48DD17-E66B-409F-A286-D068E47AFAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF48DD17-E66B-409F-A286-D068E47AFAFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

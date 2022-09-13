@@ -5270,19 +5270,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\emmad\\.nuget\\packages\\": {}
+    "C:\\Users\\singh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GenCUdemy\\MFPE Pod-1 Project\\Microservices\\VehicleDriverAccountBook\\AuthorizationAPI-Test\\AuthorizationAPI-Test.csproj",
+      "projectUniqueName": "C:\\Users\\singh\\OneDrive\\Desktop\\Car Rental System\\VehicleDriverAccountBook\\AuthorizationAPI-Test\\AuthorizationAPI-Test.csproj",
       "projectName": "AuthorizationAPI-Test",
-      "projectPath": "E:\\GenCUdemy\\MFPE Pod-1 Project\\Microservices\\VehicleDriverAccountBook\\AuthorizationAPI-Test\\AuthorizationAPI-Test.csproj",
-      "packagesPath": "C:\\Users\\emmad\\.nuget\\packages\\",
-      "outputPath": "E:\\GenCUdemy\\MFPE Pod-1 Project\\Microservices\\VehicleDriverAccountBook\\AuthorizationAPI-Test\\obj\\",
+      "projectPath": "C:\\Users\\singh\\OneDrive\\Desktop\\Car Rental System\\VehicleDriverAccountBook\\AuthorizationAPI-Test\\AuthorizationAPI-Test.csproj",
+      "packagesPath": "C:\\Users\\singh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\singh\\OneDrive\\Desktop\\Car Rental System\\VehicleDriverAccountBook\\AuthorizationAPI-Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\emmad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5340,7 +5340,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

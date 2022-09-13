@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GenCUdemy\\MFPE Pod-1 Project\\Microservices\\VehicleDriverAccountBook\\VehicleAPI\\VehicleAPI.csproj": {}
+    "C:\\Users\\singh\\OneDrive\\Desktop\\Car Rental System\\VehicleDriverAccountBook\\VehicleAPI\\VehicleAPI.csproj": {}
   },
   "projects": {
-    "E:\\GenCUdemy\\MFPE Pod-1 Project\\Microservices\\VehicleDriverAccountBook\\VehicleAPI\\VehicleAPI.csproj": {
+    "C:\\Users\\singh\\OneDrive\\Desktop\\Car Rental System\\VehicleDriverAccountBook\\VehicleAPI\\VehicleAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GenCUdemy\\MFPE Pod-1 Project\\Microservices\\VehicleDriverAccountBook\\VehicleAPI\\VehicleAPI.csproj",
+        "projectUniqueName": "C:\\Users\\singh\\OneDrive\\Desktop\\Car Rental System\\VehicleDriverAccountBook\\VehicleAPI\\VehicleAPI.csproj",
         "projectName": "VehicleAPI",
-        "projectPath": "E:\\GenCUdemy\\MFPE Pod-1 Project\\Microservices\\VehicleDriverAccountBook\\VehicleAPI\\VehicleAPI.csproj",
-        "packagesPath": "C:\\Users\\emmad\\.nuget\\packages\\",
-        "outputPath": "E:\\GenCUdemy\\MFPE Pod-1 Project\\Microservices\\VehicleDriverAccountBook\\VehicleAPI\\obj\\",
+        "projectPath": "C:\\Users\\singh\\OneDrive\\Desktop\\Car Rental System\\VehicleDriverAccountBook\\VehicleAPI\\VehicleAPI.csproj",
+        "packagesPath": "C:\\Users\\singh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\singh\\OneDrive\\Desktop\\Car Rental System\\VehicleDriverAccountBook\\VehicleAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\emmad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,12 +85,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.25, 3.1.25]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -99,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

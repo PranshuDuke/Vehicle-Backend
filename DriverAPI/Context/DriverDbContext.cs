@@ -11,5 +11,6 @@ namespace DriversAPI.Context
         }
 
         public DbSet<Driver> Drivers { get; set; }
+
     }
 }
